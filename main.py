@@ -40,7 +40,7 @@ def get_tile_properties(tmxdata, x, y, world_offest):
     return properties
 
 
-def callpiggiez(inv):
+def call(inv):
     myfont = pygame.font.SysFont('couriernew', 30)
     textinv = myfont.render("Ask more further info" + str(inv), False, (255, 0, 0))
     textbloodsplatter = myfont.render('1: Run blood splatter analysis', False, (255, 0, 0))
