@@ -1,6 +1,6 @@
 # Detective PyGame
 
-**Game Jam Project (2021):** A top-down detective RPG prototype built in 48 hours.
+**Game Jam Project :** A top-down detective RPG prototype built in 48 hours.
 
 **Concept:** Play as a detective solving cases in a small town. Features tile-based movement, NPC interaction, and evidence collection.
 
